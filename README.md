@@ -19,7 +19,7 @@ I enjoy learning and experimenting with new technologies. When I'm not coding, I
 
 ---
 ## 💛 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lohitv)
 [![X (Twitter)](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x)](https://x.com/DotZero27)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-gray?style=for-the-badge&logo=github)](https://github.com/DotZero27)
 
